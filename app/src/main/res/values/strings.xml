@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeMark</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="cuisines">Cuisines Android-Code Path 2K21</string>
+    <string name="Candidats">Candidats</string>
+    <string name="Candidat1">"Candidat 1 "</string>
+    <string name="candidat2">Candidat 2</string>
+    <string name="candidat3">Candidat 3</string>
+    <string name="androidcodepath">Android-Code Path</string>
+    <string name="weMark">We Mark</string>
+
+    <string-array name="topics">
+        <item>Reproduction</item>
+        <item>Creation</item>
+    </string-array>
+
+    <string-array name="creations">
+        <item>Creation1</item>
+        <item>Creation2</item>
+        <item>Creation3</item>
+        <item>Creation4</item>
+        <item>Creation5</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reproduction">Reproduction</string>
+</resources>
+
+
+
